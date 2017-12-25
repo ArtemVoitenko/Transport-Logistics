@@ -1,0 +1,103 @@
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\csc.exe
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\csc.exe.config
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\csc.rsp
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\csi.exe
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\csi.rsp
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\System.AppContext.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\vbc.exe
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\vbc.exe.config
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\vbc.rsp
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\VBCSCompiler.exe
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\Transport Logistics.dll.config
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\Transport Logistics.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\Transport Logistics.pdb
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\EntityFramework.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\EntityFramework.SqlServer.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\Newtonsoft.Json.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\System.Net.Http.Formatting.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\System.Web.Http.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\System.Web.Http.WebHost.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\EntityFramework.xml
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\EntityFramework.SqlServer.xml
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\Newtonsoft.Json.xml
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\System.Net.Http.Formatting.xml
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\System.Web.Http.xml
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\System.Web.Http.WebHost.xml
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\ru\System.Web.Http.resources.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\obj\Debug\Transport Logistics.csprojResolveAssemblyReference.cache
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\obj\Debug\Transport Logistics.dll
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\obj\Debug\Transport Logistics.pdb
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\obj\Debug\Transport_Logistics.Migrations.InitialMigration.resources
+D:\Study\Transport Logistics\Transport Logistics\Transport Logistics\obj\Debug\Transport Logistics.csproj.GenerateResource.Cache
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\csc.exe
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\csc.exe.config
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\csc.rsp
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\csi.exe
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\csi.rsp
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\System.AppContext.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\System.Collections.Immutable.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\System.IO.FileSystem.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\vbc.exe
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\vbc.exe.config
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\vbc.rsp
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\VBCSCompiler.exe
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\roslyn\VBCSCompiler.exe.config
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\Transport Logistics.dll.config
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\Transport Logistics.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\Transport Logistics.pdb
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\EntityFramework.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\EntityFramework.SqlServer.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\Newtonsoft.Json.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\System.Net.Http.Formatting.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\System.Web.Http.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\System.Web.Http.WebHost.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\EntityFramework.xml
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\EntityFramework.SqlServer.xml
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\Newtonsoft.Json.xml
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\System.Net.Http.Formatting.xml
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\System.Web.Http.xml
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\System.Web.Http.WebHost.xml
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\ru\System.Web.Http.resources.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\obj\Debug\Transport_Logistics.Migrations.InitialMigration.resources
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\obj\Debug\Transport Logistics.csproj.GenerateResource.Cache
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\obj\Debug\Transport Logistics.dll
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\obj\Debug\Transport Logistics.pdb
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\obj\Debug\Transport Logistics.csprojResolveAssemblyReference.cache
+D:\Учеба\3 курс\Курсач БД\Transport Logistics\Transport Logistics\obj\Debug\Transport_Logistics.Migrations.initial.resources
